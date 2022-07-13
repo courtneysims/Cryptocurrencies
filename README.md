@@ -1,2 +1,3 @@
 # Cryptocurrencies
-Unsupervised learning to explore  cryptocurrencies for any trends.
+
+Unsupervised learning to explore  cryptocurrencies to create a classification system for investment tradability.
